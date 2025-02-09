@@ -1,8 +1,8 @@
 # E-commerce-website-UI-Design
 
-Welcome!
+## **Welcome!**
 
-## Getting started
+## 🚀 Getting started
 
 > **Prerequisites:**
 > The following steps require [NodeJS](https://nodejs.org/en/) to be installed on your system, so please
@@ -30,7 +30,7 @@ If you are satisfied with the result, you can finally build the project for rele
 npm run build
 ```
 
-## Storybook
+## ⚙️ Storybook
 
 After installing, you can view your storybook by running:
 
@@ -51,8 +51,8 @@ This is a static e-commerce website built using HTML, CSS, and JavaScript. The p
 
 Homepage with a product showcase. Product listing and details page (UI-based, no backend). Responsive design for desktop screens. Basic animations for a modern user experience. This project serves as a foundation for understanding front-end web development and is ideal for beginners looking to enhance their web development skills.
 
-## Contributing
+## 👥 Contributing
 Feel free to fork the repository and submit pull requests for any improvements or features!
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
